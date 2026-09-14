@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm Doris.Zhang 👋
+  # Hi, I'm Zhang Pan 👋
 
 
   [Website](https://example.com/doris-zhang) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/REPLACE_WITH_YOUR_ID)
