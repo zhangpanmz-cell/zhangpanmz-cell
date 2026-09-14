@@ -3,7 +3,7 @@
   # Hi, I'm Zhang Pan 👋
 
 
-  [Website](https://example.com/doris-zhang) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/REPLACE_WITH_YOUR_ID)
+  [Personal Website](https://zhangpanmz-cell.github.io/)
 
 </div>
 
@@ -33,8 +33,8 @@ A browser-based tool for finding identical or similar images on disk, comparing 
 
 ## 📫 Find me
 
-- 🌐 Website: **[Visit my site](https://example.com/doris-zhang)**
-- 📕 Xiaohongshu: **[View my profile](https://www.xiaohongshu.com/user/profile/REPLACE_WITH_YOUR_ID)**
+- 🌐 Website: **[zhangpanmz-cell.github.io](https://zhangpanmz-cell.github.io/)**
+- ✉️ Email: **[zhangpanmz@gmail.com](mailto:zhangpanmz@gmail.com)**
 
 ---
 
