@@ -2,9 +2,6 @@
 
   # Hi, I'm Doris.Zhang 👋
 
-  **AI Product Builder · Independent Developer**
-
-  I turn ambiguous ideas into clear, testable, and useful products.
 
   [Website](https://example.com/doris-zhang) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/REPLACE_WITH_YOUR_ID)
 
