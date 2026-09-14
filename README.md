@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./profile-portrait.png" alt="Portrait of Doris.Zhang" width="220" />
 
   # Hi, I'm Doris.Zhang 👋
 
